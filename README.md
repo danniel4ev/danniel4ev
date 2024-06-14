@@ -5,7 +5,7 @@
 - Always learning 🧐
 - "They say the money is time and the reaper know the budget" 😎
 
-### 📕 Check out our latest blogs 👇
+### Check out our latest blogs 👇
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
