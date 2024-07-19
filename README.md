@@ -8,9 +8,9 @@
 ### Check out our latest blogs 👇
 
 <!-- BLOG-POST-LIST:START -->
-- [جزوه حقوق تجارت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%aa%d8%ac%d8%a7%d8%b1%d8%aa/)
-- [جزوه حقوق اساسی سه](https://www.elsalawyers.com/crime/%d8%ac%d8%b2%d9%88%d9%87-%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d8%b3%d8%a7%d8%b3%db%8c-%d8%b3%d9%87/)
-- [جزوه حقوق اساسی یک](https://www.elsalawyers.com/crime/10252/)
-- [حق مالکیت](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%ad%d9%82-%d9%85%d8%a7%d9%84%da%a9%db%8c%d8%aa/)
-- [توقیف مال](https://www.elsalawyers.com/%d8%ad%d9%82%d9%88%d9%82%db%8c/%d8%aa%d9%88%d9%82%db%8c%d9%81-%d9%85%d8%a7%d9%84/)
+- [مشاوره با بهترین وکیل سرقت در تهران](https://hesabraslaw.com/blog/%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D8%A8%D8%A7-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%DA%A9%DB%8C%D9%84-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/)
+- [10 قانون عجیب و غریب از سراسر جهان](https://hesabraslaw.com/blog/10-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B9%D8%AC%DB%8C%D8%A8-%D9%88-%D8%BA%D8%B1%DB%8C%D8%A8-%D8%A7%D8%B2-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1-%D8%AC%D9%87%D8%A7%D9%86/)
+- [هوش مصنوعی و حقوق قانونی: فراتر از داستان‌های علمی تخیلی](https://hesabraslaw.com/blog/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%88-%D8%AD%D9%82%D9%88%D9%82-%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%D9%85%DB%8C-%D8%AA%D8%AE%DB%8C%D9%84%DB%8C/)
+- [بهترین وکیل خانواده در تهران| مشاوره و خدمات حقوقی](https://hesabraslaw.com/blog/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%DA%A9%DB%8C%D9%84-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/)
+- [سوالات  آزمون وکالت ۱۴۰۲ به همراه پاسخنامه سوالات](https://hesabraslaw.com/blog/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%D9%88-%D9%BE%D8%A7%D8%B3%D8%AE%D9%86%D8%A7%D9%85%D9%87-%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D9%88%DA%A9%D8%A7%D9%84%D8%AA-%DB%B1%DB%B4%DB%B0%DB%B2-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%DB%8C%DA%A9%D8%AC%D8%A7/)
 <!-- BLOG-POST-LIST:END -->
