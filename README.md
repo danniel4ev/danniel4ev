@@ -1,9 +1,19 @@
-# Hi there, I'm Danniel 👋 
+👋 Hi there, I'm Danniel!
+🚀 Passionate Developer | Lifelong Learner
+Welcome to my GitHub corner! I thrive on solving challenges, building innovative solutions, and continuously expanding my skillset. Whether it's coding a new project, contributing to open-source, or exploring the latest in tech, I'm always on a mission to grow and make an impact.
 
-## I'm a Developer, Graphic Designer & a proud open source community member 😁!!
+🌟 About Me
+  💡 Interests: Data Analysis, Data Science, (Data Lover in general :))
+  🎯 Goals: Build meaningful projects that solve real-world problems.
+  🤝 Open to Collaboration: Let's build something amazing together!
 
-- Always learning 🧐
-- "They say the money is time and the reaper know the budget" 😎
+🛠️ Tech Stack
+  Languages: Python, Go, Bash.
+  Frameworks & Libraries: PyTorch, Tensorflow, PowerBI, Pandas, Numpy, Scikit-learn.
+  Tools & Platforms: PowerBI
+
+Feel free to explore my repositories and connect with me on any of these platforms. Let's collaborate and build something awesome!
+
 
 ### Check out our latest blogs 👇
 
