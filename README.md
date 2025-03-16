@@ -47,7 +47,7 @@ Welcome to my GitHub corner (More like an IceBerg over here😁)! I thrive on so
 
 ## 📫 Let's Connect  
 
-- 💼 [LinkedIn]()
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahdi-yaghoubi-zadeh-26b442287/)
 
 ---
 
