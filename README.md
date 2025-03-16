@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Danniel!
+# 👋 Hi there, I'm Mahdi!
 
 ## 🚀 Passionate Developer | Lifelong Learner
 
-Welcome to my GitHub corner! I thrive on solving challenges, building innovative solutions, and continuously expanding my skillset. Whether it's coding a new project, contributing to open-source, or exploring the latest in tech, I'm always on a mission to grow and make an impact.
+Welcome to my GitHub corner (More like an IceBerg over here😁)! I thrive on solving challenges, building innovative solutions, and continuously expanding my skillset. Whether it's coding a new project, contributing to open-source, or exploring the latest in tech, I'm always on a mission to grow and make an impact.
 
 ---
 
