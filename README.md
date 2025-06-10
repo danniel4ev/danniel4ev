@@ -64,5 +64,5 @@ I believe that **data tells a story**, and I love uncovering those insights to d
 - [آیفون در آستانه انقلاب هوش مصنوعی؟](https://cyberuni.ir/blog/%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/)
 - [آیفون جدید با طراحی انقلابی!](https://cyberuni.ir/blog/%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C/)
 - [زیر و بم هوش مصنوعی در دنیای حسابداری!](https://cyberuni.ir/blog/%D8%B2%DB%8C%D8%B1-%D9%88-%D8%A8%D9%85-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C/)
-- [آشپزی مدرن با دُم!](https://cyberuni.ir/blog/%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C-%D9%85%D8%AF%D8%B1%D9%86-%D8%A8%D8%A7-%D8%AF%D9%85/)
+- [یخبندان‌های زمین در آستانه نابودی!](https://cyberuni.ir/blog/%DB%8C%D8%AE%D8%A8%D9%86%D8%AF%D8%A7%D9%86%D9%87%D8%A7%DB%8C-%D8%B2%D9%85%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D9%86%D8%A7%D8%A8%D9%88%D8%AF%DB%8C/)
 <!-- BLOG-POST-LIST:END -->
